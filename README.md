@@ -21,7 +21,8 @@ Tenho experiência principalmente com **Java** e **bancos de dados**, além de t
 ## 🧰 Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=netbeans,idea,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" />
+  <img src="https://raw.githubusercontent.com/apache/netbeans/master/nbbuild/installer/mac/resources/NetBeans.icns" height="48" />
 </p>
 
 ---
