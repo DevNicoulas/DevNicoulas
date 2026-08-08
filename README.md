@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**DevNicoulas/DevNicoulas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e desenvolvedor iniciante, atualmente focado em aprender e evoluir na área de tecnologia.
 
-Here are some ideas to get you started:
+💻 Trabalho principalmente com **Java**
+🗄️ Tenho bastante contato com **bancos de dados**
+⚙️ Trabalho com **melhorias e automações em sistemas**
+📚 Estou sempre buscando aprender novas tecnologias e aprimorar meus conhecimentos
+🚀 Tenho interesse em crescer profissionalmente na área de desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, meu foco é ganhar experiência prática, desenvolver projetos e continuar evoluindo como desenvolvedor.
+
+---
+
+### 🛠️ Tecnologias
+
+* Java
+* Banco de Dados
+* Git / GitHub
+* Java Swing
+* Hibernate
+
+---
+
+> 🌱 Sempre aprendendo, desenvolvendo e buscando melhorar.
