@@ -21,7 +21,7 @@ Tenho experiência principalmente com **Java** e **bancos de dados**, além de t
 ## 🧰 Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans" />
+  <img src="https://skillicons.dev/icons?i=netbeans,idea,vscode,git,github" />
 </p>
 
 ---
