@@ -1,25 +1,66 @@
-# Olá! 👋
+# 👋 Olá! Eu sou Nicolas
 
-Sou estudante e desenvolvedor iniciante, atualmente focado em aprender e evoluir na área de tecnologia.
+### 💻 Estudante | Desenvolvedor em formação
 
-💻 Trabalho principalmente com **Java**
-🗄️ Tenho bastante contato com **bancos de dados**
-⚙️ Trabalho com **melhorias e automações em sistemas**
-📚 Estou sempre buscando aprender novas tecnologias e aprimorar meus conhecimentos
-🚀 Tenho interesse em crescer profissionalmente na área de desenvolvimento
+Sou estudante e desenvolvedor iniciante, atualmente buscando evoluir meus conhecimentos na área de tecnologia.
 
-Atualmente, meu foco é ganhar experiência prática, desenvolver projetos e continuar evoluindo como desenvolvedor.
+Tenho experiência principalmente com **Java** e **bancos de dados**, além de trabalhar com **melhorias e automações em sistemas**.
+
+🚀 Meu objetivo é continuar aprendendo, ganhar experiência prática e crescer profissionalmente na área de desenvolvimento.
 
 ---
 
-### 🛠️ Tecnologias
+## 🛠️ Tecnologias que utilizo
 
-* Java
-* Banco de Dados
-* Git / GitHub
-* Java Swing
-* Hibernate
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,postgres,html,css" />
+</p>
 
 ---
 
-> 🌱 Sempre aprendendo, desenvolvendo e buscando melhorar.
+## 🧰 Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans" />
+</p>
+
+---
+
+## ⚙️ No que trabalho
+
+- 💻 Desenvolvimento e manutenção de sistemas
+- ⚙️ Melhorias e automações
+- 🗄️ Manipulação e gerenciamento de bancos de dados
+- ☕ Desenvolvimento utilizando Java
+- 🔄 Otimização de processos
+- 📚 Aprendizado e desenvolvimento contínuo
+
+---
+
+## 📈 Atualmente
+
+🌱 Aprendendo e aprimorando meus conhecimentos em desenvolvimento.
+
+🔎 Buscando novas oportunidades para colocar meus conhecimentos em prática.
+
+🚀 Construindo minha experiência e evoluindo na área de tecnologia.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Sempre aprendendo. Sempre evoluindo.
+
+</div>
